@@ -21,7 +21,7 @@
             "#6d72a2"
         ],
         "INTERACTIVE_NORMAL": [
-            "#eba3a3"
+            "#db5c5c"
         ],
         "INTERACTIVE_HOVER": [
             "#20f1f8"
@@ -55,7 +55,7 @@
             "#F5A9B8"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#ed647f"
+            "#20f1f8"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#F5A9B8"
