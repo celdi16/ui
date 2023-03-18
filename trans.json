@@ -27,16 +27,16 @@
             "#8ffffd"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#c8c8c8"
+            "#eba3a3"
         ],
         "INTERACTIVE_MUTED": [
-            "#26273b"
+            "#74c4cd"
         ],
         "BACKGROUND_PRIMARY": [
             "#F5A9B8"
         ],
         "BACKGROUND_SECONDARY": [
-            "#ff80997"
+            "#ffffff"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#cd183c"
@@ -61,7 +61,7 @@
             "#F5A9B8"
         ],
         "BACKGROUND_MENTIONED": [
-            "#2c8590"
+            "#48b8c7"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#4bc3bb"
@@ -100,7 +100,7 @@
             "#97c3b0"
         ],
         "KEYBOARD": [
-            "#6cc1aa"
+            "#90e0ca"
         ],
         "CHANNEL_ICON": [
             "#d9a6a6"
