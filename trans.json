@@ -113,7 +113,7 @@
         ]
     },
     "rawColors": {
-        "PRIMARY_500": "#ffffff",
+        "PRIMARY_500": "#ed647f",
         "PRIMARY_100": "#ffffff",
         "PRIMARY_200": "#ffffff",
         "PRIMARY_300": "#ffffff",
@@ -123,13 +123,6 @@
         "PRIMARY_630": "#ed647f",
         "PRIMARY_700": "#ed647f",
         "PRIMARY_800": "#ed647f",
-        "BRAND_260": "#ed647f",
-        "BRAND_500": "#ed647f",
-        "BRAND_900": "#ed647f",
-        "YELLOW_300": "#443a59",
-        "GREEN_600": "#7c6ea7",
-        "DANGER": "#625682",
-        "RED_400": "#a297c3"
     },
     "spec": 2
 }
