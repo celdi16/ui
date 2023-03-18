@@ -114,8 +114,8 @@
     },
     "rawColors": {
         "PRIMARY_500": "#ed647f",
-        "PRIMARY_100": "#ed647f",
-        "PRIMARY_200": "#ed647f",
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#ffffff",
         "PRIMARY_300": "#ed647f",
         "PRIMARY_360": "#ed647f",
         "PRIMARY_400": "#ed647f",
