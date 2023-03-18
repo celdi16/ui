@@ -34,11 +34,11 @@
         "TEXT_LINK": ["#5865F2"],
     },
     "rawColors": {
-        "PRIMARY_600": "#232530",
-        "PRIMARY_630": "#1C1E26",
-        "PRIMARY_700": "#1C1E26",
-        "PRIMARY_800": "#1C1E26",
-        "YELLOW_300": "#5865F2"
+        "PRIMARY_600": "#F5A9B8",
+        "PRIMARY_630": "#F5A9B8",
+        "PRIMARY_700": "#F5A9B8",
+        "PRIMARY_800": "#F5A9B8",
+        "YELLOW_300": "#F5A9B8"
     },
     "spec": 2
 }
