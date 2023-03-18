@@ -33,7 +33,7 @@
             "#74c4cd"
         ],
         "BACKGROUND_PRIMARY": [
-            "#F5A9B8"
+            "#20f1f8"
         ],
         "BACKGROUND_SECONDARY": [
             "#20f1f8"
@@ -42,7 +42,7 @@
             "#cd183c"
         ],
         "BACKGROUND_TERTIARY": [
-            "#F5A9B8",
+            "#20f1f8",
             "#f80997"
         ],
         "BACKGROUND_ACCENT": [
@@ -52,7 +52,7 @@
             "#56d2c4"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#F5A9B8"
+            "#ffffff"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#20f1f8"
