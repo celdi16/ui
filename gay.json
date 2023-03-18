@@ -18,7 +18,7 @@
         "INTERACTIVE_MUTED": ["#5d47ff"],
         "BACKGROUND_PRIMARY": ["#5d47ff"],
         "BACKGROUND_SECONDARY": ["#0e007a"],
-        "BACKGROUND_SECONDARY_ALT": ["#5d47ff"],
+        "BACKGROUND_SECONDARY_ALT": ["#000000"],
         "BACKGROUND_TERTIARY": ["#5d47ff","#b400eb"],
         "BACKGROUND_ACCENT": ["#db66ff"],
         "BACKGROUND_FLOATING": ["#ff4747"],
