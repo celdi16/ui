@@ -12,7 +12,7 @@
             "#F5A9B8"
         ],
         "HEADER_SECONDARY": [
-            "#e7365a"
+            "#F5A9B8"
         ],
         "TEXT_NORMAL": [
             "#ffffff"
@@ -33,7 +33,7 @@
             "#74c4cd"
         ],
         "BACKGROUND_PRIMARY": [
-            "#ffffff"
+            "#F5A9B8"
         ],
         "BACKGROUND_SECONDARY": [
             "#F5A9B8"
@@ -42,7 +42,7 @@
             "#cd183c"
         ],
         "BACKGROUND_TERTIARY": [
-            "#ffffff",
+            "#F5A9B8",
             "#f80997"
         ],
         "BACKGROUND_ACCENT": [
