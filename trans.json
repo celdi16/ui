@@ -12,13 +12,13 @@
             "#F5A9B8"
         ],
         "HEADER_SECONDARY": [
-            "#20f1f8"
+            "#F5A9B8"
         ],
         "TEXT_NORMAL": [
             "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#47000e"
+            "#20f1f8"
         ],
         "INTERACTIVE_NORMAL": [
             "#HEADER_SECONDARY"
