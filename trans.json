@@ -124,10 +124,5 @@
         "PRIMARY_700": "#ed647f",
         "PRIMARY_800": "#ed647f",
     },
-    "background": {
-        "blur": 0.1,
-        "url": "https://media.discordapp.net/attachments/1026554757948637305/1042919699626852362/rosiepink.png",
-        "alpha": 1.0
-    },
-    "color": "#ff91ff"
+    "spec": 2
 }
