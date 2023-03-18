@@ -3,7 +3,7 @@
     "description": "a trans theme for discord",
     "authors": [
         {
-            "name": "celdi",
+            "name": "Vodka celdi",
             "id": "996832521499185173"
         }
     ],
@@ -107,13 +107,10 @@
         ],
         "CHAT_BACKGROUND": [
             "#F5A9B8"
-        ],
-        "CHAT_INPUT_CONTAINER_BACKGROUND": [
-            "#F5A9B8"
         ]
     },
     "rawColors": {
-        "PRIMARY_500": "#ed647f",
+        "PRIMARY_500": "#010101",
         "PRIMARY_100": "#ffffff",
         "PRIMARY_200": "#ffffff",
         "PRIMARY_300": "#ffffff",
@@ -123,6 +120,13 @@
         "PRIMARY_630": "#ed647f",
         "PRIMARY_700": "#ed647f",
         "PRIMARY_800": "#ed647f",
+        "BRAND_260": "#a297c3",
+        "BRAND_500": "#a297c3",
+        "BRAND_900": "#7c6ea7",
+        "YELLOW_300": "#443a59",
+        "GREEN_600": "#7c6ea7",
+        "DANGER": "#625682",
+        "RED_400": "#a297c3"
     },
     "spec": 2
 }
