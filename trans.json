@@ -3,13 +3,13 @@
     "description": "a trans theme for discord",
     "authors": [
         {
-            "name": "Vodka celdi",
+            "name": "celdi",
             "id": "996832521499185173"
         }
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#ffffff"
+            "#F5A9B8"
         ],
         "HEADER_SECONDARY": [
             "#20f1f8"
