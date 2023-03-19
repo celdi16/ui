@@ -39,7 +39,7 @@
         "CHANNELS_DEFAULT": ["#ffd1dc"],
         "TEXT_LINK": ["#97c3b0"],
         "KEYBOARD": ["#90e0ca"],
-        "CHANNEL_ICON": ["#d9a6a6"],
+        "CHANNEL_ICON": ["#52ff80"],
         "CHAT_BACKGROUND": ["#ffd1dc"],
         "CHAT_INPUT_CONTAINER_BACKGROUND": ["#ffd1dc"]
     },
