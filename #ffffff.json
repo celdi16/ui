@@ -1,0 +1,59 @@
+{
+    "name": "#ffffff",
+    "description": "i really wouldnt reccomend this",
+    "authors": [
+        {
+            "name": "celdi",
+            "id": "996832521499185173"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": ["#ffffff"],
+        "HEADER_SECONDARY": ["#ffffff"],
+        "TEXT_NORMAL": ["#ffffff"],
+        "TEXT_MUTED": ["#ffffff"],
+        "INTERACTIVE_NORMAL": ["#ffffff"],
+        "INTERACTIVE_HOVER": ["#ffffff"],
+        "INTERACTIVE_ACTIVE": ["#ffffff"],
+        "INTERACTIVE_MUTED": ["#ffffff"],
+        "BACKGROUND_PRIMARY": ["#ffffff"],
+        "BACKGROUND_SECONDARY": ["#ffffff"],
+        "BACKGROUND_SECONDARY_ALT": ["#ffffff"],
+        "BACKGROUND_TERTIARY": ["#ffffff","#ffffff"],
+        "BACKGROUND_ACCENT": ["#ffffff"],
+        "BACKGROUND_FLOATING": ["#ffffff"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#ffffff"],
+        "BACKGROUND_MOBILE_SECONDARY": ["#ffffff"],
+        "BACKGROUND_NESTED_FLOATING": ["#ffffff"],
+        "BACKGROUND_MENTIONED": ["#ffffff"],
+        "BACKGROUND_MESSAGE_HOVER": ["#ffffff"],
+        "BACKGROUND_MODIFIER_HOVER": ["#ffffff"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["#ffffff"],
+        "BACKGROUND_MODIFIER_SELECTED": ["#ffffff"],
+        "BACKGROUND_MODIFIER_ACCENT": ["transparent"],
+        "SCROLLBAR_THIN_THUMB": ["#ffffff"],
+        "SCROLLBAR_THIN_TRACK": ["transparent"],
+        "SCROLLBAR_AUTO_THUMB": ["#ffffff"],
+        "SCROLLBAR_AUTO_TRACK": ["#ffffff"],
+        "CHANNELTEXTAREA_BACKGROUND": ["#ffffff"],
+        "CHANNELS_DEFAULT": ["#ffffff"],
+        "TEXT_LINK": ["#ffffff"],
+        "KEYBOARD": ["#ffffff"],
+        "CHANNEL_ICON": ["#ffffff"],
+        "CHAT_BACKGROUND": ["#ffffff"],
+        "CHAT_INPUT_CONTAINER_BACKGROUND": ["#ffffff"]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#ffffff",
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#ffffff",
+        "PRIMARY_300": "#ffffff",
+        "PRIMARY_360": "#ffffff",
+        "PRIMARY_400": "#ffffff",
+        "PRIMARY_600": "#ffffff",
+        "PRIMARY_630": "#ffffff",
+        "PRIMARY_700": "#ffffff",
+        "PRIMARY_800": "#ffffff"
+    },
+    "spec": 2
+}
