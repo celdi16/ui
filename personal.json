@@ -43,6 +43,11 @@
         "CHAT_BACKGROUND": ["#ffd1dc"],
         "CHAT_INPUT_CONTAINER_BACKGROUND": ["#ffd1dc"]
     },
+    "background": {
+        "blur": 0.1,
+        "url": "https://media.discordapp.net/attachments/1026554757948637305/1042919699626852362/rosiepink.png",
+        "alpha": 1.0
+    },
     "rawColors": {
         "PRIMARY_500": "#ceb1f6",
         "PRIMARY_100": "#06b6bc",
