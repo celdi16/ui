@@ -44,16 +44,16 @@
         "CHAT_INPUT_CONTAINER_BACKGROUND": ["transparent","transparent","transparent"]
     },
     "rawColors": {
-        "PRIMARY_500": "#transparent",
-        "PRIMARY_100": "#transparent",
-        "PRIMARY_200": "#transparent",
-        "PRIMARY_300": "#transparent",
-        "PRIMARY_360": "#transparent",
-        "PRIMARY_400": "#transparent",
-        "PRIMARY_600": "#transparent",
-        "PRIMARY_630": "#transparent",
-        "PRIMARY_700": "#transparent",
-        "PRIMARY_800": "#transparent"
+        "PRIMARY_500": "transparent",
+        "PRIMARY_100": "transparent",
+        "PRIMARY_200": "transparent",
+        "PRIMARY_300": "transparent",
+        "PRIMARY_360": "transparent",
+        "PRIMARY_400": "transparent",
+        "PRIMARY_600": "transparent",
+        "PRIMARY_630": "transparent",
+        "PRIMARY_700": "transparent",
+        "PRIMARY_800": "transparent"
     },
     "spec": 2
 }
