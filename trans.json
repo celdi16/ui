@@ -18,7 +18,7 @@
         "INTERACTIVE_MUTED": ["#20f1f8"],
         "BACKGROUND_PRIMARY": ["#ffd1dc"],
         "BACKGROUND_SECONDARY": ["#ffd1dc"],
-        "BACKGROUND_SECONDARY_ALT": ["#20f1f8"],
+        "BACKGROUND_SECONDARY_ALT": ["#bbd4ec"],
         "BACKGROUND_TERTIARY": ["#ffd1dc","#ff9eb5"],
         "BACKGROUND_ACCENT": ["#ff527b"],
         "BACKGROUND_FLOATING": ["#cfe1f2"],
@@ -44,16 +44,16 @@
         "CHAT_INPUT_CONTAINER_BACKGROUND": ["#ffd1dc"]
     },
     "rawColors": {
-        "PRIMARY_500": "#ed647f",
+        "PRIMARY_500": "#ceb1f6",
         "PRIMARY_100": "#06b6bc",
         "PRIMARY_200": "#ffffff",
         "PRIMARY_300": "#ffffff",
         "PRIMARY_360": "#ffffff",
-        "PRIMARY_400": "#ed647f",
-        "PRIMARY_600": "#ed647f",
-        "PRIMARY_630": "#ed647f",
-        "PRIMARY_700": "#ed647f",
-        "PRIMARY_800": "#ed647f"
+        "PRIMARY_400": "#ceb1f6",
+        "PRIMARY_600": "#ceb1f6",
+        "PRIMARY_630": "#ceb1f6",
+        "PRIMARY_700": "#ceb1f6",
+        "PRIMARY_800": "#ceb1f6"
     },
     "spec": 2
 }
