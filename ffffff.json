@@ -78,7 +78,7 @@
         "CHANNEL_ICON": ["#ffffff"],
         "CHAT_BACKGROUND": ["#ffffff"],
         "CHAT_INPUT_CONTAINER_BACKGROUND": ["#ffffff"]
-    }
+    },
     "rawColors": {
         "PRIMARY_500": "#ffffff",
         "PRIMARY_100": "#ffffff",
