@@ -1,0 +1,59 @@
+{
+    "name": "#brick",
+    "description": "i really wouldnt reccomend this",
+    "authors": [
+        {
+            "name": "celdi",
+            "id": "996832521499185173"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": ["transparent","transparent","transparent"],
+        "HEADER_SECONDARY": ["transparent","transparent","transparent"],
+        "TEXT_NORMAL": ["transparent","transparent","transparent"],
+        "TEXT_MUTED": ["transparent","transparent","transparent"],
+        "INTERACTIVE_NORMAL": ["transparent","transparent","transparent"],
+        "INTERACTIVE_HOVER": ["transparent","transparent","transparent"],
+        "INTERACTIVE_ACTIVE": ["transparent","transparent","transparent"],
+        "INTERACTIVE_MUTED": ["transparent","transparent","transparent"],
+        "BACKGROUND_PRIMARY": ["transparent","transparent","transparent"],
+        "BACKGROUND_SECONDARY": ["transparent","transparent","transparent"],
+        "BACKGROUND_SECONDARY_ALT": ["transparent","transparent","transparent"],
+        "BACKGROUND_TERTIARY": ["transparent","#transparent","transparent"],
+        "BACKGROUND_ACCENT": ["transparent","transparent","transparent"],
+        "BACKGROUND_FLOATING": ["transparent","transparent","transparent"],
+        "BACKGROUND_MOBILE_PRIMARY": ["transparent","transparent","transparent"],
+        "BACKGROUND_MOBILE_SECONDARY": ["transparent","transparent","transparent"],
+        "BACKGROUND_NESTED_FLOATING": ["transparent","transparent","transparent"],
+        "BACKGROUND_MENTIONED": ["transparent","transparent","transparent"],
+        "BACKGROUND_MESSAGE_HOVER": ["transparent","transparent","transparent"],
+        "BACKGROUND_MODIFIER_HOVER": ["transparent","transparent","transparent"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["transparent","transparent","transparent"],
+        "BACKGROUND_MODIFIER_SELECTED": ["transparent","transparent","transparent"],
+        "BACKGROUND_MODIFIER_ACCENT": ["transparent","transparent","transparent"],
+        "SCROLLBAR_THIN_THUMB": ["transparent","transparent","transparent"],
+        "SCROLLBAR_THIN_TRACK": ["transparent","transparent","transparent"],
+        "SCROLLBAR_AUTO_THUMB": ["transparent","transparent","transparent"],
+        "SCROLLBAR_AUTO_TRACK": ["transparent","transparent","transparent"],
+        "CHANNELTEXTAREA_BACKGROUND": ["transparent","transparent","transparent"],
+        "CHANNELS_DEFAULT": ["transparent","transparent","transparent"],
+        "TEXT_LINK": ["transparent","transparent","transparent"],
+        "KEYBOARD": ["transparent","transparent","transparent"],
+        "CHANNEL_ICON": ["transparent","transparent","transparent"],
+        "CHAT_BACKGROUND": ["transparent","transparent","transparent"],
+        "CHAT_INPUT_CONTAINER_BACKGROUND": ["transparent","transparent","transparent"]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#transparent",
+        "PRIMARY_100": "#transparent",
+        "PRIMARY_200": "#transparent",
+        "PRIMARY_300": "#transparent",
+        "PRIMARY_360": "#transparent",
+        "PRIMARY_400": "#transparent",
+        "PRIMARY_600": "#transparent",
+        "PRIMARY_630": "#transparent",
+        "PRIMARY_700": "#transparent",
+        "PRIMARY_800": "#transparent"
+    },
+    "spec": 2
+}
