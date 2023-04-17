@@ -35,7 +35,7 @@
         "SCROLLBAR_THIN_TRACK": ["transparent"],
         "SCROLLBAR_AUTO_THUMB": ["#9394e2"],
         "SCROLLBAR_AUTO_TRACK": ["#9394e2"],
-        "CHANNELTEXTAREA_BACKGROUND": ["#20A92C"],
+        "CHANNELTEXTAREA_BACKGROUND": ["#431F20"],
         "CHANNELS_DEFAULT": ["#20A92C"],
         "TEXT_LINK": ["#97c3b0"],
         "KEYBOARD": ["#90e0ca"],
