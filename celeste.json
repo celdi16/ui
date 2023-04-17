@@ -16,7 +16,7 @@
         "INTERACTIVE_HOVER": ["#8D455A"],
         "INTERACTIVE_ACTIVE": ["#3E1D26"],
         "INTERACTIVE_MUTED": ["#000000"],
-        "BACKGROUND_PRIMARY": ["#F47C68"],
+        "BACKGROUND_PRIMARY": ["#F4AB59"],
         "BACKGROUND_SECONDARY": ["#ffd1dc"],
         "BACKGROUND_SECONDARY_ALT": ["#bbd4ec"],
         "BACKGROUND_TERTIARY": ["#ffd1dc","#ff9eb5"],
