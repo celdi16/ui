@@ -8,8 +8,8 @@
         }
     ],
     "semanticColors": {
-        "HEADER_PRIMARY": ["transparent"],
-        "HEADER_SECONDARY": ["#bbd4ec"],
+        "HEADER_PRIMARY": ["#A7C7E7"],
+        "HEADER_SECONDARY": ["transparent"],
         "TEXT_NORMAL": ["#ffffff"],
         "TEXT_MUTED": ["#93bae2"],
         "INTERACTIVE_NORMAL": ["#ff9eb5"],
