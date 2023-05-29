@@ -1,10 +1,10 @@
 {
-    "name": "RosieSkies",
-    "description": "The same, but Rosiefied™ :3",
+    "name": "pink",
+    "description": "1/5",
     "authors": [
         {
-            "name": "Ari",
-            "id": "639959347518242821"
+            "name": "Nora",
+            "id": ""
         }
     ],
     "semanticColors": {
@@ -135,7 +135,7 @@
     },
   "background": {
     "blur": 0,
-    "url": "https://w0.peakpx.com/wallpaper/457/82/HD-wallpaper-pinky-day-minimalist-landscape-colour-mountain-pink-purple-forest-magenta-morning-sky-sunrise-sunset-2d-gibranibang.jpg",
+    "url": "https://celdi16.github.io/ui/celdi-pictures/pink/trees.png",
     "alpha": 0.48
   },
     "spec": 2
