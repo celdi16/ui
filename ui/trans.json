@@ -1,0 +1,59 @@
+{
+    "name": "trans",
+    "description": "a trans theme for discord",
+    "authors": [
+        {
+            "name": "celdi",
+            "id": "996832521499185173"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": ["#A7C7E7"],
+        "HEADER_SECONDARY": ["#bbd4ec"],
+        "TEXT_NORMAL": ["#ffffff"],
+        "TEXT_MUTED": ["#93bae2"],
+        "INTERACTIVE_NORMAL": ["#ff9eb5"],
+        "INTERACTIVE_HOVER": ["#20f1f8"],
+        "INTERACTIVE_ACTIVE": ["#ceb1f6"],
+        "INTERACTIVE_MUTED": ["#20f1f8"],
+        "BACKGROUND_PRIMARY": ["#ffd1dc"],
+        "BACKGROUND_SECONDARY": ["#ffd1dc"],
+        "BACKGROUND_SECONDARY_ALT": ["#bbd4ec"],
+        "BACKGROUND_TERTIARY": ["#ffd1dc","#ff9eb5"],
+        "BACKGROUND_ACCENT": ["#ff527b"],
+        "BACKGROUND_FLOATING": ["#cfe1f2"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#ffd1dc"],
+        "BACKGROUND_MOBILE_SECONDARY": ["#20f1f8"],
+        "BACKGROUND_NESTED_FLOATING": ["#ffd1dc"],
+        "BACKGROUND_MENTIONED": ["#93bbe2"],
+        "BACKGROUND_MESSAGE_HOVER": ["#9394e2"],
+        "BACKGROUND_MODIFIER_HOVER": ["#ffd1dc"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["#9394e2"],
+        "BACKGROUND_MODIFIER_SELECTED": ["#9394e2"],
+        "BACKGROUND_MODIFIER_ACCENT": ["transparent"],
+        "SCROLLBAR_THIN_THUMB": ["#5795d2"],
+        "SCROLLBAR_THIN_TRACK": ["transparent"],
+        "SCROLLBAR_AUTO_THUMB": ["#9394e2"],
+        "SCROLLBAR_AUTO_TRACK": ["#9394e2"],
+        "CHANNELTEXTAREA_BACKGROUND": ["#ffd1dc"],
+        "CHANNELS_DEFAULT": ["#ffd1dc"],
+        "TEXT_LINK": ["#97c3b0"],
+        "KEYBOARD": ["#90e0ca"],
+        "CHANNEL_ICON": ["#d9a6a6"],
+        "CHAT_BACKGROUND": ["#ffd1dc"],
+        "CHAT_INPUT_CONTAINER_BACKGROUND": ["#ffd1dc"]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#ceb1f6",
+        "PRIMARY_100": "#06b6bc",
+        "PRIMARY_200": "#ffffff",
+        "PRIMARY_300": "#ffffff",
+        "PRIMARY_360": "#ffffff",
+        "PRIMARY_400": "#ceb1f6",
+        "PRIMARY_600": "#ceb1f6",
+        "PRIMARY_630": "#ceb1f6",
+        "PRIMARY_700": "#ceb1f6",
+        "PRIMARY_800": "#ceb1f6"
+    },
+    "spec": 2
+}
