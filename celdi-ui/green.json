@@ -1,0 +1,142 @@
+{
+    "name": "pink",
+    "description": "1/5",
+    "authors": [
+        {
+            "name": "Nora",
+            "id": ""
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#164700"
+        ],
+        "HEADER_SECONDARY": [
+            "#000000"
+        ],
+        "TEXT_NORMAL": [
+            "#ffffff"
+        ],
+        "TEXT_MUTED": [
+            "#000000"
+        ],
+        "TEXT_DANGER": [
+            "#ff0000"
+        ],
+        "TEXT_LINK": [
+            "#164700"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#000000"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#65ff1e"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#164700"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#ab969c"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#65ff1e"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#2d8e00"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#2d8e00"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#65ff1e"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#96ff66"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#2d8e00"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#65ff1e"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#65ff1e"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#65ff1e"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#65ff1e"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#65ff1e"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#65ff1e"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#65ff1e"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#65ff1e"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#65ff1e"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#65ff1e"
+        ],
+        "KEYBOARD": [
+            "#65ff1e"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#164700"
+        ],
+        "CHANNEL_ICON": [
+            "#000000"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#000000"
+        ],
+        "CHAT_BACKGROUND": [
+            "#65ff1e"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY": "#4ff900",
+        "PRIMARY_100": "#164700",
+        "PRIMARY_200": "#000000",
+        "PRIMARY_300": "#43d600",
+        "PRIMARY_360": "#000000",
+        "PRIMARY_400": "#43d600",
+        "PRIMARY_500": "#65ff1e",
+        "PRIMARY_600": "#65ff1e",
+        "PRIMARY_630": "#65ff1e",
+        "PRIMARY_660": "#65ff1e",
+        "PRIMARY_700": "#65ff1e",
+        "PRIMARY_800": "#65ff1e",
+        "PRIMARY_900": "#65ff1e",
+        "YELLOW_300": "#43d600",
+        "BRAND_260": "#43d600",
+        "BRAND_360": "#43d600",
+        "BRAND_500": "#43d600",
+        "BRAND_560": "#aeff89",
+        "GREEN_360": "#43d600",
+        "RED_400": "#43d600",
+        "ORANGE_345": "#43d600",
+        "RED_560": "#43d600",
+        "GREEN_345": "#43d600",
+        "BLUE_345": "#43d600",
+        "WHITE_500": "#164700"
+       
+    },
+  "background": {
+    "blur": 0,
+    "url": "https://celdi16.github.io/ui/pictures/treesg.png",
+    "alpha": 0.48
+  },
+    "spec": 2
+}
